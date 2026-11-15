@@ -911,11 +911,6 @@ hash = "9ef893cf5cb29f3aee052c575dd9cf5fabbe239258467aa58625c69da4cb46a5"
 metafile = true
 
 [[files]]
-file = "mods/tacz-neoforge-1-21-1-1-2-0.pw.toml"
-hash = "1ffa89f21fb487fabf465512868390f1089e875fe4d21a4892914ca62c2ad9e1"
-metafile = true
-
-[[files]]
 file = "mods/terrablender-neoforge-1-21-1-4-1-0-8.pw.toml"
 hash = "0280d95724181161844038863691b723e020c49a63dc7db2ce67a1c9e20c1add"
 metafile = true

@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create A Skibidi",
   "author": "",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "selection": {
     "mods": [
       "resourcepacks/Fancy Crops v1.3.zip",
@@ -233,7 +233,6 @@
       "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
       "mods/entity_texture_features-7.2.7-1.21-neoforge.jar",
       "mods/undergardendelight-2.0.3-neoforge-1.21.1.jar",
-      "mods/tacz-neoforge-1.21.1-1.2.0.jar",
       "mods/accessories-neoforge-1.1.0-beta.54+1.21.1.jar",
       "mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
       "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
