@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create A Skibidi",
   "author": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "selection": {
     "mods": [
       "resourcepacks/Fancy Crops v1.3.zip",
@@ -345,7 +345,6 @@
       "mods/FarmersDelight-1.21.1-1.3.4.jar",
       "mods/fastleafdecay-35.jar",
       "mods/ferritecore-7.0.3-neoforge.jar",
-      "mods/fieldguide-1.24.0-1.21.1-neoforge.jar",
       "mods/fragmentum-5.4.0+1.21.1-neoforge.jar",
       "resourcepacks/waystones_1.21.1.zip",
       "mods/fusion-1.3.16-neoforge-mc1.21.1.jar",

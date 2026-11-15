@@ -475,11 +475,6 @@ hash = "029ecede6950032231bd83a1b60d3499399c985a2a945fb95505d36a710570a9"
 metafile = true
 
 [[files]]
-file = "mods/fieldguide-1-24-0-1-21-1-neoforge.pw.toml"
-hash = "9aa3422bdf33b5e53ce7f079138df375fd915a8ef532e3576339c85f8bda09e0"
-metafile = true
-
-[[files]]
 file = "mods/fragmentum-5-4-0-1-21-1-neoforge.pw.toml"
 hash = "44d233a59dd4d0899ef2bc566960dad633052606d995364866284e45a449371e"
 metafile = true

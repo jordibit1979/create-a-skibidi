@@ -1,12 +1,12 @@
 name = "Create A Skibidi"
 author = ""
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "28c76aa98d892380ee65d91c4fb91afea7ce0c45b1a57888e8c282042d45ded8"
+hash = "26a6f844c10fa5274155bd4daf7247f37ece40641e097184f74f4175f0512902"
 
 [versions]
 minecraft = "1.21.1"
