@@ -1108,6 +1108,10 @@ hash = "98910d3e5abe8dc55ac1a8ee53c0e2ae6b34edf84af6f53fd84fb12eb72bdedb"
 metafile = true
 
 [[files]]
+file = "resourcepacks/§eArmorstands§8-§eReimagined§0_§8[v1.3]§0.zip"
+hash = "89398719d41230d3449e6b53b0e2cb8e3928c1253f298f968b33d1394af74efd"
+
+[[files]]
 file = "shaderpacks/complementaryreimagined-r5-9-3.pw.toml"
 hash = "9c0137a2ffed7a1d5d1c73a600ee499b194713110e325e3ab671d9a0f220b80b"
 metafile = true

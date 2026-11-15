@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create A Skibidi",
   "author": "",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "selection": {
     "mods": [
       "resourcepacks/Fancy Crops v1.3.zip",
@@ -235,7 +235,8 @@
       "mods/legendary_farming-neoforge-1.21.1-1.7.1.jar",
       "mods/nether_cruelty-1.2.0-neoforge-1.21.1.jar",
       "mods/snifferoverhaulneoforge-1-2-4.jar",
-      "resourcepacks/Vulmoons calaclysm remake_0.5.zip"
+      "resourcepacks/Vulmoons calaclysm remake_0.5.zip",
+      "resourcepacks/§eArmorstands§8-§eReimagined§0_§8[v1.3]§0.zip"
     ],
     "files": [],
     "known_mods": [
@@ -260,6 +261,7 @@
       "mods/aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
       "mods/aquamirae-neoforge-1.21.1-7.2.13.jar",
       "mods/architectury-13.0.12-neoforge.jar",
+      "resourcepacks/§eArmorstands§8-§eReimagined§0_§8[v1.3]§0.zip",
       "mods/artifacts-neoforge-13.2.5.jar",
       "mods/athena-neoforge-1.21.1-4.0.6.jar",
       "mods/azurelib-neo-1.21.1-3.2.8.jar",
