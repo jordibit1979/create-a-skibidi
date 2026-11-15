@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create A Skibidi",
   "author": "",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "selection": {
     "mods": [
       "resourcepacks/Fancy Crops v1.3.zip",
@@ -247,7 +247,6 @@
       "mods/accessories-neoforge-1.1.0-beta.54+1.21.1.jar",
       "mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
       "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
-      "resourcepacks/AL's 3D Potions 1.1.1.zip",
       "resourcepacks/AL's Skeletons Revamped 1.7.zip",
       "mods/almostunified-neoforge-1.21.1-1.4.2.jar",
       "mods/AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar",
@@ -466,7 +465,8 @@
       "mods/wunderlib-21.0.11.jar",
       "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
       "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
-      "resourcepacks/xali's enchanted book v1.0.0.zip"
+      "resourcepacks/xali's enchanted book v1.0.0.zip",
+      "resourcepacks/xali's potion v1.2.0.zip"
     ],
     "optional": {},
     "flavor_groups": [],

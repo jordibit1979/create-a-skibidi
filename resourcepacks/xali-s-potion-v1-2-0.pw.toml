@@ -1,0 +1,12 @@
+name = "xali's Potions"
+filename = "xali's potion v1.2.0.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "bb4c523e36bb3b22ae28ae7f9fa911331adf6f4a"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 510849
+file-id = 7563067

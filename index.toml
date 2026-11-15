@@ -1043,11 +1043,6 @@ hash = "4a911ccd17e16a7021daa2d883e3324669bd1e6128826e11523f362ee049b2d3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/al-s-3d-potions-1-1-1.pw.toml"
-hash = "13adac1e18b10b32c997fd22a385210d20f4ecb06be04bdfdf9d62da57f25736"
-metafile = true
-
-[[files]]
 file = "resourcepacks/al-s-skeletons-revamped-1-7.pw.toml"
 hash = "b54b7ba0a6db171acc4c93a3adedab4fd5cf12f46ccedd2c9e9c88781bd49531"
 metafile = true
@@ -1105,6 +1100,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/xali-s-enchanted-book-v1-0-0.pw.toml"
 hash = "98910d3e5abe8dc55ac1a8ee53c0e2ae6b34edf84af6f53fd84fb12eb72bdedb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xali-s-potion-v1-2-0.pw.toml"
+hash = "00e907b89ddf49364d6d7adc71b4ee223c01f34bb3101af979cba458f13c2555"
 metafile = true
 
 [[files]]
