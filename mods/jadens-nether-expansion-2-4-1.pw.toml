@@ -1,0 +1,12 @@
+name = "Jaden's Nether Expansion"
+filename = "Jadens-Nether-Expansion-2.4.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ccbf6bce83cb9c73c3160a5395fb898132205117"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1111833
+file-id = 8707156

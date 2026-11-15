@@ -1,0 +1,12 @@
+name = "More Axolotl Variants API"
+filename = "mavapi-neoforge-2.4.0+1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "5d8030bc060f9c2ca0aa8f7acd672af18e305e71"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 709964
+file-id = 9185115

@@ -1,0 +1,1 @@
+https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fjordibit1979%2Fcreate-a-skibidi%2Fmain%2Fpack.toml&name=Create+A+Skibidi&unsup=true&shared_by=dogekiller

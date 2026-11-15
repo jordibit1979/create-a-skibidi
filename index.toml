@@ -1,0 +1,1080 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/Create-Structures-Arise-1.21.1-NeoForge-176.49.50.jar"
+hash = "83b9f671fa9864883f83c19a3972bb5d6449fde2cae8a5d7ceeced2dd52a2947"
+
+[[files]]
+file = "mods/accessories-neoforge-1-1-0-beta-54-1-21-1.pw.toml"
+hash = "3c0f09827931e3d39fd5e2920644d79faedbeb2c7f3f7f71b16aebd884b8e8a0"
+metafile = true
+
+[[files]]
+file = "mods/advancednetherite-neoforge-2-3-1-1-21-1.pw.toml"
+hash = "6c6754f40d7f4d1414f8cd461784d36d4cf974fdb084939c19644249742c6747"
+metafile = true
+
+[[files]]
+file = "mods/advancementplaques-1-21-1-neoforge-1-6-8.pw.toml"
+hash = "1ce985a076d0dc57b592bf5784e7d3fe8f9383810e1f9a630ba0b60f1ba818ce"
+metafile = true
+
+[[files]]
+file = "mods/almostunified-neoforge-1-21-1-1-4-2.pw.toml"
+hash = "96d4dffe2f70da6e564d2c50b27e5149b70178c2528a67e39a70d9c9d825e1ad"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds-neoforge-v6-3-11-mc1-21-1.pw.toml"
+hash = "391c7bfb47bd1845ef5cf802c6d381e67241962271e1becaa0e4c4b1b099d3b1"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether-26-2-v1-2-16.pw.toml"
+hash = "72dfdecd6014c3092629134d228e15174d92de6fca77daa8c0ab742f9c426047"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis-1-21-1-8-9-0.pw.toml"
+hash = "dda5c5782350b84aef22c50f04b4d2c669ab841ac13511875d2ab28df7b20d8a"
+metafile = true
+
+[[files]]
+file = "mods/apothicattributes-1-21-1-2-11-0.pw.toml"
+hash = "d557560e4c0c429078ee82cae212be45d0b49b603107587a5c7c1ed664daae43"
+metafile = true
+
+[[files]]
+file = "mods/apothicenchanting-1-21-1-1-6-4.pw.toml"
+hash = "bf0ab896491679e80eff0f9c35a0cadce650b289d68127f344d84d6bb2e32301"
+metafile = true
+
+[[files]]
+file = "mods/apothicspawners-1-21-1-1-4-0.pw.toml"
+hash = "fef2df49a8451d4f0742392e7c907e35472f568ab0398d91fdd8305476619090"
+metafile = true
+
+[[files]]
+file = "mods/appleskin-neoforge-mc1-21-3-0-9.pw.toml"
+hash = "3bcf73b98e5718a790e76790836736d232ffa6a24ce3ad6f5e6a0e164b379e0d"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture-1-21-1-2-7-22.pw.toml"
+hash = "51119941c4a106cdf61b41f3996716898167e6125788425d756df3ea85e8fef9"
+metafile = true
+
+[[files]]
+file = "mods/aquaculturedelight-1.2.0-neoforge-1.21.1.jar"
+hash = "0a0565d1a3801b00801ecec70dcb2c240e68bae9a41ffd4ffa6d0365226b9875"
+
+[[files]]
+file = "mods/aquamirae-neoforge-1-21-1-7-2-13.pw.toml"
+hash = "8813c20123673d1ec1191e0bf9e9b9911e2f0dd0631a6d9748a48b2bcc9c2171"
+metafile = true
+
+[[files]]
+file = "mods/architectury-13-0-12-neoforge.pw.toml"
+hash = "f40916fa99162a0cd353c27aecac270e72b1380b78fff5c54b114ff235f09937"
+metafile = true
+
+[[files]]
+file = "mods/artifacts-neoforge-13-2-5.pw.toml"
+hash = "2b8f793afcd4e9febeb11a2593716feb517adea760235134c8164ce92d31f67e"
+metafile = true
+
+[[files]]
+file = "mods/athena-neoforge-1-21-1-4-0-6.pw.toml"
+hash = "67e3cfb0365c3dbccb8561555c9087ca1cee5903f5e6768fe42f3a6bf608c87c"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-neo-1-21-1-3-2-8.pw.toml"
+hash = "2fe64249d243072b32218dddff8013afa39fed79b659a0d9b918d230d7764746"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations-2-4-1-1-21-1.pw.toml"
+hash = "f798542a6d59bbbed0d2bd8a47a882ab0c7074a94dbc95f686763f7938672ffb"
+metafile = true
+
+[[files]]
+file = "mods/balm-neoforge-1-21-1-21-0-67.pw.toml"
+hash = "037dd494f300f5a5e13a641d50d08c609ab461b77051698a2cfa698efb16a0d0"
+metafile = true
+
+[[files]]
+file = "mods/bclib-21-0-29.pw.toml"
+hash = "0866518786efcbaa993d69db8ac6aed77ee590295600bd7151c1b72510e9e7e6"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles-0-4-7-1-21-1.pw.toml"
+hash = "c70d7910ebe2e2c8ca893cede4310f3cb70808e460ada1735f9bc31eb59e5272"
+metafile = true
+
+[[files]]
+file = "mods/betteradvancements-neoforge-1-21-1-0-4-3-21.pw.toml"
+hash = "6500dbc23743fd6e28ee2cca64d8f467b7b0719a461d6e7e6add3e0211705e58"
+metafile = true
+
+[[files]]
+file = "mods/betterarcheology-neoforge-1-21-1-1-3-9.pw.toml"
+hash = "062743bd4c58d2e15efe9f5e4cf453977079abcdf62ae17e91069ded583f3b92"
+metafile = true
+
+[[files]]
+file = "mods/betterend-21-0-39.pw.toml"
+hash = "f6928d3c38185e71816f4343953c0e1035fc0bb988f3f9c32af5cc1a8ef3a8be"
+metafile = true
+
+[[files]]
+file = "mods/betternether-21-0-30.pw.toml"
+hash = "4b967d50a101db1b7ed9a858c8f3f79846a17bc52a7f9211ef9e801cbfed1a31"
+metafile = true
+
+[[files]]
+file = "mods/betterthirdperson-neoforge-1-9-0.pw.toml"
+hash = "378144e9635670fa7934b31b29e982a513d9b21c7a03c6068e351bca2d7731cb"
+metafile = true
+
+[[files]]
+file = "mods/block-factorys-bosses-2-1-2-neo-1-21-1.pw.toml"
+hash = "388c9d6f672334953ead0a4319fe936ebcfc0d92f4646511dba15ed9ca7b9393"
+metafile = true
+
+[[files]]
+file = "mods/blueprint-1-21-1-8-2-0.pw.toml"
+hash = "c94d7cb7e9e82a0cfe1e970c08283fd1cf95b80ec0cc1250e6db9fc6a77e33c0"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-neoforge-1-21-1-21-1-81.pw.toml"
+hash = "9515bba899305cdbdd6d3c2d3ef4aff22a73ba490982cdeb30800ef6946045ed"
+metafile = true
+
+[[files]]
+file = "mods/caelus-neoforge-7-0-1-1-21-1.pw.toml"
+hash = "0fff45d6fc390797e7c563f4a90ea5e6df36ba23d2acfa9f9194a5f3100389e5"
+metafile = true
+
+[[files]]
+file = "mods/chipped-neoforge-1-21-1-4-0-2.pw.toml"
+hash = "314d20bc47409bd567439b6f2ac538aa7086b0d137f19f95bde08bbde2ff6c4d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-15-0-140-neoforge.pw.toml"
+hash = "5426894bd7d0982e5bd3031063ed3959c187e971a344864bcc9cf2a3dd49bb1d"
+metafile = true
+
+[[files]]
+file = "mods/clumps-neoforge-1-21-1-19-0-0-1.pw.toml"
+hash = "c8aea253e8199c250434b8f7dc22d96687840e932e2e9b63ad0176b531212279"
+metafile = true
+
+[[files]]
+file = "mods/cmpackagecouriers-neoforge-2-3-1.pw.toml"
+hash = "b7cddf6a2318a08153036a8356c6984f09ae2b9f63d551b24301e930f47d7e78"
+metafile = true
+
+[[files]]
+file = "mods/connectivity-1-21-1-7-7.pw.toml"
+hash = "4f64cf05b177cb13ec503e218e33d9d746150a7f910eef37c8f65ecff7736efd"
+metafile = true
+
+[[files]]
+file = "mods/copycats-3-0-11-mc-1-21-1-neoforge.pw.toml"
+hash = "0b2bb19f0ca8685d39103286c1f10c703a554e4f5866af9e6fd0adfc046a32c7"
+metafile = true
+
+[[files]]
+file = "mods/corn-delight-1-2-10-1-21-1.pw.toml"
+hash = "71682b61c911dd489d2e9d16b8948bdd0d572b7019d421e6e7de1be510942284"
+metafile = true
+
+[[files]]
+file = "mods/corpse-neoforge-1-21-1-1-1-22.pw.toml"
+hash = "f5e7872861b2494a3182f4f03d88c92c6518ad11b6b93826b02d1cf93fa7e495"
+metafile = true
+
+[[files]]
+file = "mods/crabbersdelight-1-21-1-1-3-1.pw.toml"
+hash = "b831f7be94aff259415dc497571223a07c2609d0359b4d7429613ebee2388de0"
+metafile = true
+
+[[files]]
+file = "mods/create-1-21-1-6-0-10.pw.toml"
+hash = "ebdda79db558d7c222be3b12be52350856bf07f6021d0b84419dfc7312969c00"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar"
+hash = "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e"
+
+[[files]]
+file = "mods/create-aquatic-ambitions-1-21-1-2-0-4.pw.toml"
+hash = "3a9750d8a4fdbdd9619d22e0e40418570ceb90d5ede626c48279206d19fdbde2"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen-2-6-2b.pw.toml"
+hash = "a5aee268bbef3147f5bbb3d0cd25141e355b3148de9aa01c33a4688834d0c931"
+metafile = true
+
+[[files]]
+file = "mods/create-confectionery1-21-1-v1-1-3b.pw.toml"
+hash = "4cd1d3d2a51d3b4019cdc7d865b0e5488b9121a6448a67de640d61d094cb44d6"
+metafile = true
+
+[[files]]
+file = "mods/create-connected-1-3-3-mc1-21-1.pw.toml"
+hash = "c3272c623548e26d2b3a548d7f33c75b0971090825a9ae0d92cd50b305ffba6c"
+metafile = true
+
+[[files]]
+file = "mods/create-deco-casing-6-404-0-neoforge-1-21-1.pw.toml"
+hash = "1c2a58eb7267422ec1b69d1df9f506163f732a00a82b3fbc521abecf3c2516c9"
+metafile = true
+
+[[files]]
+file = "mods/create-encased-1-21-1-1-10-1.pw.toml"
+hash = "d03fff40a60c35c753e184e2aff31c288a04acce5417844988341a4ed793639a"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-2-5-4b.pw.toml"
+hash = "15fa24e1de7b4cd7d528fbc51998af3da0c8697eff84b14e5e814da6e147f47e"
+metafile = true
+
+[[files]]
+file = "mods/create-factory-0-7b-1-21-1.pw.toml"
+hash = "5bf980cd3e4631276e08b693d44fdec0d30b145fec85d086c56d9f85ce83a8fa"
+metafile = true
+
+[[files]]
+file = "mods/create-hypertube-0-6-0-neoforge.pw.toml"
+hash = "9d5d80b4dbb3fda893e1c783d9f88a528ac25580086d1845697bce38903b21a5"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-extruder-1-21-1-2-2-2-6-0-10.pw.toml"
+hash = "b1126fe73ce81b9332c90df9381a28ee259b0c239cb5b38bf72d9f033b6acf73"
+metafile = true
+
+[[files]]
+file = "mods/create-more-recipes-1-21-1-1-2-1-fix1.pw.toml"
+hash = "c1302eca0e5f2b41ce9a02b02bf35427aa4c3ca7897ac0f0bab25139403e1d21"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader-2-0-5-mc1-21-1.pw.toml"
+hash = "090e5f46d7dc11af9bf56429dbeb1ef4cfe3e4ee3fff5b317e8bcbe57eaa5eee"
+metafile = true
+
+[[files]]
+file = "mods/create-radar-5-1-0-1-21-1.pw.toml"
+hash = "7a66874feb4c4c25df55de1ad09a10145089e5ec2dd82283f6a361ac244a4def"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions1-21-1-v2-1-4b.pw.toml"
+hash = "27f8416f8778257fa6dac2256179b719e2c6df5179fb62bd84d6f592be0b1d29"
+metafile = true
+
+[[files]]
+file = "mods/create-submarine-3-4-8.pw.toml"
+hash = "1d838a16a5f39215f2b1414e97ae96126e6f4d3a960c7139e90d661b388c849c"
+metafile = true
+
+[[files]]
+file = "mods/create-things-and-misc-4-1-1-neoforge-1-21-1.pw.toml"
+hash = "352a8da458677a04c1aab67f59460d23c3cc67e77f7cb450c6e5dace4b0d0560"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory-2-2-4-neoforge-1-21-1.pw.toml"
+hash = "05ed491eb620550ae2212b336d1edc0a975b863dcc9c0db9ddc4a7df4ec6ffad"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults-0-3-2.pw.toml"
+hash = "a2c138667ff093c923651d0452537bc44ed0c2dc6aa745595460744d1228eab1"
+metafile = true
+
+[[files]]
+file = "mods/create_factory_logistics-1.21.1-1.6.1-all.jar"
+hash = "afde59685f33bbd9e75335bb4bd404fba501ef248fdea5740fd6f024e64b571f"
+
+[[files]]
+file = "mods/create_oxidized-0.1.3.jar"
+hash = "9221f4caa70036d05a04e83e6b57844fa03b60cdef6ade1491c37c0f7800d063"
+
+[[files]]
+file = "mods/createaddition-1-7-2.pw.toml"
+hash = "390793d51fe15635a960d7630692267549d9adeb0c29c9f3d87abdc93c0439f8"
+metafile = true
+
+[[files]]
+file = "mods/createbetterfps-1-21-1-1-1-5.pw.toml"
+hash = "5b4f196173b9cd797eca21242d7e6ccb63c154f2c43358901072129e535a856a"
+metafile = true
+
+[[files]]
+file = "mods/createbigcannons-5-11-7-mc-1-21-1.pw.toml"
+hash = "d1649ae0acc1430e20e672319f9e40a5e62ff4390e669fbe9ec19cf9def77513"
+metafile = true
+
+[[files]]
+file = "mods/createdeco-2-1-3.pw.toml"
+hash = "d204aa799151a22e44dfc3c1459d6dfe0efb0bddd23fb4985fdc957bb73fe562"
+metafile = true
+
+[[files]]
+file = "mods/createdieselgenerators-1-21-1-1-3-15.pw.toml"
+hash = "b3950c6cf458333e788ef09b0f57a53631e73adea716725bbe0f0812a43f55df"
+metafile = true
+
+[[files]]
+file = "mods/createdragonsplus-1-11-9.pw.toml"
+hash = "05b92811f124382a975f03b16d54a3a8fe0dc40d4eea3a4ce69d9e64c2c400a2"
+metafile = true
+
+[[files]]
+file = "mods/createfood-neoforge-1-21-1-3-0-0.pw.toml"
+hash = "661637060cf284f7cead560751380432f35de5014845a0ef6780c1fbcbcc8ed1"
+metafile = true
+
+[[files]]
+file = "mods/createframed-1-21-1-1-8-2.pw.toml"
+hash = "1ea1395dc3e2daa158a1851aa00e193f5d3518e8b9168096a9ed7a2531eeea93"
+metafile = true
+
+[[files]]
+file = "mods/createnuclear-2-0-1-neoforge.pw.toml"
+hash = "5eee5421ad269e399477dc6c383d0afaba0db0d782c04b442f0f3e575474e0f2"
+metafile = true
+
+[[files]]
+file = "mods/createpropulsion-1-1-5.pw.toml"
+hash = "8f7d4a83cdee0abb868270cee6dc2856b72ad30ebbcfdf0b3cef8c996634f5ba"
+metafile = true
+
+[[files]]
+file = "mods/createrailwaysnavigator-neoforge-1-21-1-beta-0-10-0-c6.pw.toml"
+hash = "f7020a21c438deba3431f41c0eeebcfa9904b18e1c55eb30cc4d2e3ce76267ab"
+metafile = true
+
+[[files]]
+file = "mods/createtransmission-1-2-2-neoforge-create6-1-21-1.pw.toml"
+hash = "46e555c78b7ccfc937f779b074e5836706ec06a5a72b6a05d041024c9eaf3b40"
+metafile = true
+
+[[files]]
+file = "mods/creativecore-neoforge-v2-13-54-mc1-21-1.pw.toml"
+hash = "fa8932141754087301d7eeed61e82f86233998bb483bd99c4094921aac6cf703"
+metafile = true
+
+[[files]]
+file = "mods/culturaldelights-1-21-1-0-19-8.pw.toml"
+hash = "325b832bea43bc7ce674a79b060df0f1d124c496f963211972386bb35e8f9fe7"
+metafile = true
+
+[[files]]
+file = "mods/cupboard-1-21-1-4-2.pw.toml"
+hash = "47a993be0bde9e37a60c26e9a5f57b51e88234379c16b3cff77efe596641329a"
+metafile = true
+
+[[files]]
+file = "mods/curios-neoforge-9-5-1-1-21-1.pw.toml"
+hash = "73eb09d91588d5d7ab885ad65fe99d77440b439cd45bcc41d6c4c9f2ee2c6882"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker-neoforge-1-21-1-1-4-1.pw.toml"
+hash = "48ba5f0a796cb519ad97738fc6bb22cd06b41a7d21ad302592e9a5dc9a6a295b"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib-3-0-29-mc1-21-1-neoforge.pw.toml"
+hash = "2ad668a0b81f6f94b68a4ea6a520756377267aba15dfd2d176ab7154847822b3"
+metafile = true
+
+[[files]]
+file = "mods/elysiumapi-1-21-1-2-0-1.pw.toml"
+hash = "f4d0e257eb9e0868b77799b8df3e553000b84c367abb76c770e5b79bda07de2a"
+metafile = true
+
+[[files]]
+file = "mods/elytraslot-neoforge-9-0-2-1-21-1.pw.toml"
+hash = "e8412342f04c3492377370dbfd2522b1301d43682bc2d2ef91bed026a7c95510"
+metafile = true
+
+[[files]]
+file = "mods/emi-1-1-24-1-21-1-neoforge.pw.toml"
+hash = "ef6c09f8577c5a9e84c56e3843ed22c051870d2b155642b0db6f21afe6880266"
+metafile = true
+
+[[files]]
+file = "mods/enchdesc-neoforge-1-21-1-21-1-11.pw.toml"
+hash = "140aaeaaa57098cf174e5d47fc614994455cff209f77b9ba20c2a69755125ded"
+metafile = true
+
+[[files]]
+file = "mods/endermanoverhaul-neoforge-1-21-1-2-0-3.pw.toml"
+hash = "02570b69b66c99b8e3e3237708ec8aedd1927b2dbc4a98693eeea36e753b3467"
+metafile = true
+
+[[files]]
+file = "mods/endersdelight-1-3-1.pw.toml"
+hash = "ec0786ff550c0d3e0306fb2fb3f11da11aa667791ee72ffb8aa32e159f98fdca"
+metafile = true
+
+[[files]]
+file = "mods/ends-delight-2-6-1-neoforge-1-21-1.pw.toml"
+hash = "23ab47f246dd45c1958ef73cf3a410bdb72d057ddfdb2cc9e08b375fbbec5810"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features-3-3-12-1-21-neoforge.pw.toml"
+hash = "af77661f42e47638bf6aeda48567c27e38645d75035ffa20c317d9eff11645be"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-7-2-7-1-21-neoforge.pw.toml"
+hash = "2d4c991dace027f0e084ea81b5b7819703b9e701a905db6080075bfbde4475f9"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-neoforge-1.12.1-mc1.21.1.jar"
+hash = "8867487645142a01b5a6de3f7b984af8d0c516daa9a7aa83c4f6916adccd4eca"
+
+[[files]]
+file = "mods/escalated-1-3-2-mc-1-21-1.pw.toml"
+hash = "b0e288ab3c299914e097f6b0f53116cde7e484bbb7fbefa876a76adfc0eeff08"
+metafile = true
+
+[[files]]
+file = "mods/essential-1-5-2-neoforge-1-21-1.pw.toml"
+hash = "18bc6b5585618a9b166cc397f4f92b59a4d45cf8790a78596c5f695eae94a383"
+metafile = true
+
+[[files]]
+file = "mods/farmersdelight-1-21-1-1-3-4.pw.toml"
+hash = "a7fc8512e256188e1b32a17672f01dfabad6ef3d1f88f124f03a2426b1c08921"
+metafile = true
+
+[[files]]
+file = "mods/fastleafdecay-35.pw.toml"
+hash = "8aef64e630a2189a4c8697433494a0e5e4370d035af658c3a42f23ba2c84e916"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-7-0-3-neoforge.pw.toml"
+hash = "029ecede6950032231bd83a1b60d3499399c985a2a945fb95505d36a710570a9"
+metafile = true
+
+[[files]]
+file = "mods/fieldguide-1-24-0-1-21-1-neoforge.pw.toml"
+hash = "9aa3422bdf33b5e53ce7f079138df375fd915a8ef532e3576339c85f8bda09e0"
+metafile = true
+
+[[files]]
+file = "mods/fragmentum-5-4-0-1-21-1-neoforge.pw.toml"
+hash = "44d233a59dd4d0899ef2bc566960dad633052606d995364866284e45a449371e"
+metafile = true
+
+[[files]]
+file = "mods/fusion-1-3-16-neoforge-mc1-21-1.pw.toml"
+hash = "c34c33a6c8fbec9476109a445b0a004a4847778e6e495aa248976db83d36e4e5"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config-0-7-7-fix1-1-21-neoforge.pw.toml"
+hash = "bf348b5a51bffe0f5d7ce492f9d2eb2a742f05cee85a2a8dae1f3cb9cf81b502"
+metafile = true
+
+[[files]]
+file = "mods/geckolib-neoforge-1-21-1-4-9-3.pw.toml"
+hash = "aa9098faf7089d50d1d26a4462e5e88d4f635320ef0ebd0c803da9ca683b2617"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted-neoforge-1-21-1-4-0-3.pw.toml"
+hash = "9dc8e82bd4e54887730dce9e6e26c4a2e8d2bfc89c25d250bb76c6f21d3641c7"
+metafile = true
+
+[[files]]
+file = "mods/hapi-neoforge-1.21.1-1.1.3.jar"
+hash = "c134b74c8d9b9a449fda88d3ef4ad652a2ed394b5693a7e440a008bd1a33c937"
+
+[[files]]
+file = "mods/hybrid-aquatic-neoforge-1-21-1-1-7-4.pw.toml"
+hash = "d8dbb0e6dd84005ffa1b92a711cdaf3256425f4fa74d1f9463572f2a08b325cc"
+metafile = true
+
+[[files]]
+file = "mods/iceberg-1-21-1-neoforge-1-3-2.pw.toml"
+hash = "fbce44b33431c980ee42dfa1fd72c95bd46ded8e10d40ecb7625d09881dbd3a8"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft-neoforge-1-7-0-1-21-1.pw.toml"
+hash = "87f75688d2341d544faf5fc4549ab20528d9b950b68a5a367f8f73dcfc00942f"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings-neoforge-1-21-1-0-8-0.pw.toml"
+hash = "8a838954b30b0ce1fd09b0715d37b13c9b8f3b3070d802cbb7303e78c63cb7fa"
+metafile = true
+
+[[files]]
+file = "mods/immersiveoverlays-1-8-7-1-21-1-neoforge.pw.toml"
+hash = "0e4f9d13877632db4c48abeaccdb88ff86d5c267f39231993ec0d2b0eaf8be6e"
+metafile = true
+
+[[files]]
+file = "mods/interiors-0-6-1-v3.pw.toml"
+hash = "9a607eecb52fb950a91bca99de2ef7aedc9ef336acb9301e19a7a6ec226027a0"
+metafile = true
+
+[[files]]
+file = "mods/ironchest-1-21-neoforge-16-0-7.pw.toml"
+hash = "9613917bbda16ceff24603b3d594f80e9e276aed8447e25641e020dc3cfbdeb7"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions-2-8-0-1-21-1-neoforge.pw.toml"
+hash = "d567f9bd79e4c4726dc3b9fe07637c349c5e1ee663c7d5b6c417ff8098a64dd7"
+metafile = true
+
+[[files]]
+file = "mods/jade-1-21-1-neoforge-15-10-6.pw.toml"
+hash = "3352e142ca4e18787d921df21a9e53239152ecad982787412959cc5d00efb701"
+metafile = true
+
+[[files]]
+file = "mods/jadens-nether-expansion-2-4-1.pw.toml"
+hash = "e6eb588b2b37d69e4dab5f0c7db52e67a789c5ef3c625cda95d7f8cfe1331d98"
+metafile = true
+
+[[files]]
+file = "mods/jamlib-neoforge-1-3-6-1-21-1.pw.toml"
+hash = "cff4226556c5b17be795017b6a5964525b7101954b4fdd031df328a1d451a85f"
+metafile = true
+
+[[files]]
+file = "mods/jei-1-21-1-neoforge-19-70-0-469.pw.toml"
+hash = "79f15fcc48903c4a32de0e64c8c90c56dfcb923a586d0280e45955ad800747bb"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding-neoforge-1-21-1-3-3-1.pw.toml"
+hash = "96556b1a537d95b23de310aa6d12f6c43a549e81db69ec7ad26b84aaf6304078"
+metafile = true
+
+[[files]]
+file = "mods/justenoughresources-neoforge-1-21-1-1-6-0-66.pw.toml"
+hash = "d83d0a8a530f5e9d2afc9d77b110c1f68cfab81867f1923584391648b6d68849"
+metafile = true
+
+[[files]]
+file = "mods/justzoom-neoforge-3-1-0-mc-1-21-1.pw.toml"
+hash = "63ef5d7df3d0794757138520a4423f9276033f7550b861a70bd335051310cb16"
+metafile = true
+
+[[files]]
+file = "mods/konkrete-neoforge-1-9-9-mc-1-21.pw.toml"
+hash = "c64eb01e54e662f150d2ad2143d5b3ed94ca6629ca603fc0903949ba7013319f"
+metafile = true
+
+[[files]]
+file = "mods/kotlinforforge-5-12-0-all.pw.toml"
+hash = "6712beb0a3e298cbc49017e479b5e39735d52ebbbfc168cf80ca4d6f13ab6746"
+metafile = true
+
+[[files]]
+file = "mods/l-ender-s-cataclysm-1-21-1-3-33.pw.toml"
+hash = "011c96edf13a75bac27f30cd9de061012d1de90d158eb3d37f6be42de292a0b9"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights-4-8-11-1-21-1.pw.toml"
+hash = "cf649e709dd37059ce2706a29ed3d6eb9f2f5df88395b5b1c2c8a2ddcfa0b1f5"
+metafile = true
+
+[[files]]
+file = "mods/legendary-monsters-2-2-4-mc-1-21-1.pw.toml"
+hash = "4c26d380c4d8c2b7fdb921c55254cc9355994dc22ed907f5a938dc9031c962a2"
+metafile = true
+
+[[files]]
+file = "mods/legendarytooltips-1-21-1-neoforge-1-5-5.pw.toml"
+hash = "2c6df2cc51b8020bacab3bbb967724897b3ec1d600a31439fa77aa4d198246d9"
+metafile = true
+
+[[files]]
+file = "mods/lionfishapi-3-1.pw.toml"
+hash = "737bb424e621f3044c78672f3ab611b23a58e10eb74947a5524e65dff277e40c"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched-1-8-1-neoforge-21-1.pw.toml"
+hash = "c91e8799a24abc3d61c7e76b13c702deb156013005cf9f3627f0fa52b46dc9ec"
+metafile = true
+
+[[files]]
+file = "mods/lmft-1-1-1-1-21-9-neoforge.pw.toml"
+hash = "0a2e8c33ddc92b805617f1be8e46c75fce6ee45cabdf7f385134553ad7d7a1e3"
+metafile = true
+
+[[files]]
+file = "mods/lodestone-1-21-1-1-8-2.pw.toml"
+hash = "cb2ccd2f1efc0374a593aebbde7c2b14a2271a64c33d1a6a47a087625df24a07"
+metafile = true
+
+[[files]]
+file = "mods/lootr-neoforge-1-21-1-1-11-38-127.pw.toml"
+hash = "974358b04387c26bc85bb1bd34b96077dfc7229486fa707401883372b52b7ffd"
+metafile = true
+
+[[files]]
+file = "mods/mavapi-neoforge-2-4-0-1-21-1.pw.toml"
+hash = "54de67060193799a916aa4f3bb817d86999be355a0089baa52cbdfcd56ed190b"
+metafile = true
+
+[[files]]
+file = "mods/mavm-neoforge-2-2-0-1-21-1.pw.toml"
+hash = "4c559b6734034faa28fa6ba2fe0c869bee4dedde45dcbe42074c725d6b8d8a38"
+metafile = true
+
+[[files]]
+file = "mods/mechanicals-1-21-1-1-1-6.pw.toml"
+hash = "6d30faa64f896b1a1030479360b874e97889db72e569a41a2da3a7c9528b8d7e"
+metafile = true
+
+[[files]]
+file = "mods/mezz-config-1-21-1-neoforge-0-7-1-standalone.pw.toml"
+hash = "27a8b951546982480c2b6f7146705bfaf3d9da90247d50908c0edecd0199619e"
+metafile = true
+
+[[files]]
+file = "mods/minersdelight-1-21-1-1-4-5.pw.toml"
+hash = "74004bdac57e9787192f9842a61dce899cf744424a72861be27c2349ba9e0444"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-neoforge-5-27-27-mc1-21-1.pw.toml"
+hash = "f616d86fea70058926d0bf096a04dd91970f22ac00a8ac5d138f4320858143b9"
+metafile = true
+
+[[files]]
+file = "mods/moonlight-1-21-1-3-8-3-neoforge.pw.toml"
+hash = "7107439bb572b42adcc022ce162e5b0d66c2c543701b550019e0eaf7d4f8a042"
+metafile = true
+
+[[files]]
+file = "mods/more-armor-trims-1-5-4n-1-21-1.pw.toml"
+hash = "f1eb316d9f1f794c5df40ceabb7d68c1c20568a66ea73ffcf91b2e3eb2a8b0dc"
+metafile = true
+
+[[files]]
+file = "mods/mousetweaks-neoforge-mc1-21-2-26-1.pw.toml"
+hash = "e9e6aa6b410023f5a241541762e6b97cf44d8b4a70a7c14cf124565fc2d02ff4"
+metafile = true
+
+[[files]]
+file = "mods/mowziesmobs-1-21-1-1-8-2.pw.toml"
+hash = "1754c18da40856da17bfe422f8c502a7e6db96114a357ac5ccea6dc2d53cd363"
+metafile = true
+
+[[files]]
+file = "mods/mynethersdelight-1-21-1-1-10-4-1.pw.toml"
+hash = "41ba71ec39516ae659ceaf501f81a1c7595fdf0ef059095663d3e7887c18c2f2"
+metafile = true
+
+[[files]]
+file = "mods/mysterious-mountain-lib-1-2-15-1-21-1.pw.toml"
+hash = "9d634e89d8f765296d5dc316f2b3d93b915c2b9a5bb11436b5be24562acc498e"
+metafile = true
+
+[[files]]
+file = "mods/neoforge-dungeonsdelight-1-21-1-1-5-2.pw.toml"
+hash = "64a145f86098c1c4a503088ca1b86de1cda09f42a864e4c6bed4d336af6b0980"
+metafile = true
+
+[[files]]
+file = "mods/neoforge-runiclib-1-21-1-5-0-7.pw.toml"
+hash = "318d9054e704471f0f08f22df9cf47471cd7e2a56d69e261b49fbb44e4337dd9"
+metafile = true
+
+[[files]]
+file = "mods/netherexotics-1-21-1-1-3-1.pw.toml"
+hash = "c25f64b8d48f55f40d79e6e8e1783e86d64e828461740b7434e28606074ea4f9"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix-neoforge-1-21-1-21-1-1.pw.toml"
+hash = "210ebbe323deb2bdab31b3c8662bd909cff9e353d96f312fdf9c7c477ff92b31"
+metafile = true
+
+[[files]]
+file = "mods/oceansdelight-neoforge-1-0-4-1-21-1.pw.toml"
+hash = "2383bf15e31827ae00c7752f079f0ed11aacf3c6453295cc471f9db24e3adb24"
+metafile = true
+
+[[files]]
+file = "mods/octolib-neoforge-0-6-3-2-1-21.pw.toml"
+hash = "8ff736c6d6e27281b4acd1135d1fdb1c904f1637dcb84579c8dd8f729671e907"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow-neoforge-1-21-1-5-3-6.pw.toml"
+hash = "9274dcf4a1155626cf7ba3ab4c7bc3cf0bd7d63273c562bcc752d7088a602dd9"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib-neoforge-0-12-15-6-beta-1-1-21.pw.toml"
+hash = "041107e9cdcd251c3adec8e6bc6833f0b82cf621106ed7d5866d76b3e5119f0a"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-1-21-1-93-neoforge.pw.toml"
+hash = "fc28597f6ed719f12ecee1c3cc96f998c511a98d23a25f523fed08639c9a2a8b"
+metafile = true
+
+[[files]]
+file = "mods/phantasm-1-0-3.pw.toml"
+hash = "47d6478291053e568756fc951d8c2aeebf56c1ed5eb04f43d089a1c5925da4f9"
+metafile = true
+
+[[files]]
+file = "mods/pineapple-delight-1-2-0-1-21-1-neoforge.pw.toml"
+hash = "fa84bd918e9ff10ebd7a8b26bd83b3779624645761ec7565a926eed1c4cf149c"
+metafile = true
+
+[[files]]
+file = "mods/pipeorgans-0-9-2-1-1-21-1.pw.toml"
+hash = "ff010a195a6e9d679c4d0a44cdd16660fdea1ebe68906b9b513aaed1c9205e04"
+metafile = true
+
+[[files]]
+file = "mods/placebo-1-21-1-9-9-4.pw.toml"
+hash = "33e56cebc58a61edf422cdb08fbf0ff54fd37943915e56d3dd14ee7598c2f738"
+metafile = true
+
+[[files]]
+file = "mods/plushie_buddies-1.0.2-neofroge-1.21.1.jar"
+hash = "6df9f2c01b9f1c1eccaf6b8d6d86178042d3cca0aa93115b8d9b0891435a3724"
+
+[[files]]
+file = "mods/polymorph-neoforge-1-2-0-1-21-1.pw.toml"
+hash = "061bd634b1317ede9f497a911cdf94732dea4e557c4fd610ecb0879e342d59ea"
+metafile = true
+
+[[files]]
+file = "mods/prickle-neoforge-1-21-1-21-1-11.pw.toml"
+hash = "c31714c9c460d73864d1bc58f4ffd149e3824b9ecea2ece1f8b4a399f89072fc"
+metafile = true
+
+[[files]]
+file = "mods/prism-1-21-1-neoforge-1-0-11.pw.toml"
+hash = "a8f9aa1da75d210e10564c48cc7a39c7e9bce159d26885cbd7fc11c12f969b48"
+metafile = true
+
+[[files]]
+file = "mods/railways-0-3-0-beta-2-neoforge-mc1-21-1.pw.toml"
+hash = "55aae63f0a54d5e19ffa356fd020aca024bcf403163b8128d5ad2ad9430e5dde"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-1-2-6-neoforge-mc1-21.pw.toml"
+hash = "486f2eb031e0f2a245f77fb00fe04a7897e6b80e618c267d190b97e4b8ec5da5"
+metafile = true
+
+[[files]]
+file = "mods/rechiseledcreate-1-1-1-neoforge-mc1-21.pw.toml"
+hash = "7552068738e3ded56ed25a5376a6b2bd101a2d557a651fcc5e91e66e09a42240"
+metafile = true
+
+[[files]]
+file = "mods/relics-1-21-1-0-12-11.pw.toml"
+hash = "8f2e3a8b1e919b4e90fbeeebf98d2a3ee24fc0668b1fa666f47e6197e741a282"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-artifacts-1-21-1-1-0-9.pw.toml"
+hash = "67b56ddc751a6af7949a0815c86fdd6551ebdd12feeee961964889ae86c5dcce"
+metafile = true
+
+[[files]]
+file = "mods/resourcefulconfig-neoforge-1-21-3-0-11.pw.toml"
+hash = "6823cee108347e612011f81dedfcdf713ccbf7554e8d88e119c18b21d8c71ce9"
+metafile = true
+
+[[files]]
+file = "mods/resourcefullib-neoforge-1-21-3-0-12.pw.toml"
+hash = "243ee0bb7784d0db2d0df49bf5961718bee4108b41d0b6a1c8ab92845deb91f2"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest-neoforge-4-7-0-1-21-1.pw.toml"
+hash = "783bf6fca8c88d42981705cdccb256f0a9050fdbf0e7b590e09b792d6e6ef2b6"
+metafile = true
+
+[[files]]
+file = "mods/ritchiesprojectilelib-2-1-2-mc-1-21-1-neoforge.pw.toml"
+hash = "66c0777d90d2ee98a1727a311b5a532fc9d9e73f1d2e23739291a7d4dab26ca0"
+metafile = true
+
+[[files]]
+file = "mods/royal-variations-neoforge-1-21-1-2-0-7.pw.toml"
+hash = "eaac688bac0f2bcce79bbf58da55008df922284985c998345ca6339ede8ecd21"
+metafile = true
+
+[[files]]
+file = "mods/rusticdelight-neoforge-1-21-1-7-1.pw.toml"
+hash = "a4329ea076cede0969bdefde2d3d33409ea0e67cbe87f66391d5ac6c6b12029e"
+metafile = true
+
+[[files]]
+file = "mods/sable-neoforge-1-21-1-2-0-6.pw.toml"
+hash = "5789515fc72f3d224c3c7d53616f675d261022d67b49500213101756d0245622"
+metafile = true
+
+[[files]]
+file = "mods/samurai-dynasty-0-1-8-1-21-1.pw.toml"
+hash = "2013457c73adfe98ecf02a67f06e8c886a5296ec7165a5cd2b36e1b31bd568f4"
+metafile = true
+
+[[files]]
+file = "mods/simplyswords-neoforge-1-70-2-1-21-1.pw.toml"
+hash = "34851b1253059630330bcc63ed5e2e591af8d6817f7ef853f720a4e3709bd5bf"
+metafile = true
+
+[[files]]
+file = "mods/simplytooltips-neoforge-0-1-5.pw.toml"
+hash = "e741ab6abfd97bf49965d680e0448f3f97fdb481283f749fe3fc457a917cdf6d"
+metafile = true
+
+[[files]]
+file = "mods/simulatedcoasters-0.1.5.jar"
+hash = "f80b4c3cdf9fa6188804967147761b0373e150a6eadbdc53626e5ac9700b2049"
+
+[[files]]
+file = "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar"
+hash = "0b6594418245efbe4ae2cf7fde133878d56a4c41eff06e231ba7e1a233e0b615"
+
+[[files]]
+file = "mods/sliceanddice-4-3-4-neoforge.pw.toml"
+hash = "dd70dea516c14a8eb71732c3281fd5c86e25078031daff30f72023664ae51451"
+metafile = true
+
+[[files]]
+file = "mods/sodium-neoforge-0-8-13-mc1-21-1.pw.toml"
+hash = "2fc4543e3391818693edc77cb6eda4456b8b514d0b6d0dca1d94389dbe816d22"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1-21-1-3-26-21-2249.pw.toml"
+hash = "70cd2fc364047041530d20744e4cb02984637d07232d40b32fe9726a3ca155f9"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedcore-1-21-1-1-5-35-2473.pw.toml"
+hash = "ebbc9b9839914da3dc9c504a6a2922049cfa98b195919a5687ea7f47f22334f2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedstorage-1-21-1-1-6-18-2229.pw.toml"
+hash = "145d9e4619b103d0ca0fdaf8c5d01ff5de4b90c9c35d2f4f8f016bf24c6d1f9f"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered-neoforge-1-21-1-1-5-2.pw.toml"
+hash = "98c406fd606667e6c72f1cc9e8616a732a0d7b693c67f9af19a51adf773d9ed5"
+metafile = true
+
+[[files]]
+file = "mods/spideroverhaul-0-1-0-neoforge-v1-21.pw.toml"
+hash = "f94ec510fe678e366f15973cf3869badd5738e807a3a2ceb4f3a2e18f7f6ae02"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642configlib-1-1-8-neoforge-mc1-21.pw.toml"
+hash = "7b049178797098885dc2d50d924285a0c4e699e22faf2c4657b68c2bb17d8f4e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642corelib-1-1-26a-neoforge-mc1-21.pw.toml"
+hash = "a1d73b199e59ac7d20b1e0464813bda98e37f4243e2ab81d982c2aea85e1fbed"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-1-21-1-4-1-1-neoforge.pw.toml"
+hash = "9ef893cf5cb29f3aee052c575dd9cf5fabbe239258467aa58625c69da4cb46a5"
+metafile = true
+
+[[files]]
+file = "mods/tacz-neoforge-1-21-1-1-2-0.pw.toml"
+hash = "1ffa89f21fb487fabf465512868390f1089e875fe4d21a4892914ca62c2ad9e1"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-neoforge-1-21-1-4-1-0-8.pw.toml"
+hash = "0280d95724181161844038863691b723e020c49a63dc7db2ce67a1c9e20c1add"
+metafile = true
+
+[[files]]
+file = "mods/terralith-1-21-x-v2-6-2.pw.toml"
+hash = "c70305c5e410516d4e91e724dff42a354e87f2991d0a65e6c05ca4e97c14734d"
+metafile = true
+
+[[files]]
+file = "mods/tfmg-1-2-2.pw.toml"
+hash = "fe61a6421475208ed117c3777f594c5dc76bb2280441a4a8dd8ab5aca1f926b4"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden-1-21-1-0-9-6.pw.toml"
+hash = "99a8e4dc0427385c5ec0574a1ab81c946ea2ebe4703875d4bb784d068e65680c"
+metafile = true
+
+[[files]]
+file = "mods/trading-floor-3-0-16.pw.toml"
+hash = "a3b6a5b30bd5f90fa1c864eecb4998e02074787edbb38d3cb14726b168b69f87"
+metafile = true
+
+[[files]]
+file = "mods/undergardendelight-2.0.3-neoforge-1.21.1.jar"
+hash = "b81cefb38018e5411f3013a1dcf3f002a4f661daa0c7088574bf220e152b1b9a"
+
+[[files]]
+file = "mods/unusualend-2-3-1b.pw.toml"
+hash = "4f517eecd1907d283b0a1f3573481225d62f06085d991b18eae881b7c251546e"
+metafile = true
+
+[[files]]
+file = "mods/villagesandpillages-neoforge-2-0-0-mc1-21-1.pw.toml"
+hash = "df41668cdfe759d3a1c8a88bbe0c1ad4b2d5b64a6b46a450b124677b4b2c7ca3"
+metafile = true
+
+[[files]]
+file = "mods/voicechat-neoforge-1-21-1-2-6-27.pw.toml"
+hash = "5b45ce4d6c08a1bdf8c4d8f3a9b9a16d710ac2b9fea4c0d29c11e71b7d19ebd1"
+metafile = true
+
+[[files]]
+file = "mods/wan-ancient-beasts-neoforge-1-21-1-1-4-3.pw.toml"
+hash = "f9e4cca9588ddf065eec431bb1350b11977cf6ad6eaa02f8d44a0ca65db0a6f3"
+metafile = true
+
+[[files]]
+file = "mods/waystones-neoforge-1-21-1-21-1-46.pw.toml"
+hash = "24d3b230920bb5f84ea00b87fc7c14c41bdc42278dd494d0459a46f422b87715"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver-21-0-31.pw.toml"
+hash = "accc91ba1daaf6aac0647d15065e90572b5cb3b00dff3e0b785ad0b697885ded"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-21-0-11.pw.toml"
+hash = "6c0d273134ad6be5acb836f744c97c5c8fa46ab1c2ec20df9f8aefe1ebbba2d5"
+metafile = true
+
+[[files]]
+file = "mods/xaerominimap-neoforge-1-21-1-26-6-0.pw.toml"
+hash = "e224d0f05b570a38c8eac383431a6dccf0560d7f06001db24e69e5703dfbca87"
+metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-neoforge-1-21-1-1-47-0.pw.toml"
+hash = "b4fdb37148f7a93fc54a4cb31dbc731821397298d8c39197f5fa2f2cd4a27899"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades.zip"
+hash = "429dd5e2452e124432c0bdd297a027c916a58b04d009a38c48eedb914cef6078"
+
+[[files]]
+file = "resourcepacks/CreateSophBackpacks.zip"
+hash = "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d"
+
+[[files]]
+file = "resourcepacks/CreateSophiStorage.zip"
+hash = "cea881b7e94723237391ef5075afc68e15bad74d124bb98220804fed1d48e580"
+
+[[files]]
+file = "resourcepacks/Visual Titles 1.3.zip"
+hash = "7a08d58bc4c31767d08c98f0b824433eaa4b842b1dd8695e9e2b1d7ee856598b"
+
+[[files]]
+file = "resourcepacks/[1.6] Enhanced Boss Bars.zip"
+hash = "d468a0f675e4b934a7b3981a6dd4200404f328ce4db3dbc541ed752532fbaef7"
+
+[[files]]
+file = "resourcepacks/achests-8-areimagined-0-8-v1-8-2-0.pw.toml"
+hash = "4a911ccd17e16a7021daa2d883e3324669bd1e6128826e11523f362ee049b2d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-resource-pack-1-21-1-3-0.pw.toml"
+hash = "b5ded5e3b45391b7f2589bcf9c0af6cf13dc242e2e710cd95f178935d69d6479"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-interface-1-21-v0-3.pw.toml"
+hash = "78973bab0fcc7004b268bbfebbe1e4c2e26e724cd8ac0678ada34c29920c9143"
+metafile = true
+
+[[files]]
+file = "resourcepacks/createful-plaques-2-0.pw.toml"
+hash = "19df2004ec01c0fd540939135bae5b286de1cfb6a7d49ea44cfa5105bbb41df4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops-v1-3.pw.toml"
+hash = "495573d770e288b1712fc0b336fdf0d8d73dbc9912165c08238da1c01534376f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/newglowingores-6-border-r.pw.toml"
+hash = "d4b43443f1a2178822dfcacb52eeeb148e3136875076929a51eb8c0342833508"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers-v2-0-0.pw.toml"
+hash = "6063fdc618915b03717806f741de74fa307b52131c78fb663add8aae43646952"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simply-swords-reforged-v2-1.pw.toml"
+hash = "43ee0bce409d1a218143cce6e6ff7012e7a0e1ff5b6a412098ca3be09c256ef2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/updated-aquaculture-1-1.pw.toml"
+hash = "b0c6045e93af3a336a7084d3b0551f10a58a6647019e539501d9550118242b1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/waystones-1-21-1.pw.toml"
+hash = "95f29c98cde2f38bc7e30d4dd79855f504903685afcf16cb52f142fcb215b7c8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xali-s-enchanted-book-v1-0-0.pw.toml"
+hash = "98910d3e5abe8dc55ac1a8ee53c0e2ae6b34edf84af6f53fd84fb12eb72bdedb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xali-s-potion-v1-2-0.pw.toml"
+hash = "00e907b89ddf49364d6d7adc71b4ee223c01f34bb3101af979cba458f13c2555"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryreimagined-r5-9-3.pw.toml"
+hash = "9c0137a2ffed7a1d5d1c73a600ee499b194713110e325e3ab671d9a0f220b80b"
+metafile = true

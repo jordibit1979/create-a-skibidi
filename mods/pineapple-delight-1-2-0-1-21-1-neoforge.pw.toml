@@ -1,0 +1,12 @@
+name = "Pineapple Delight"
+filename = "pineapple_delight-1.2.0-1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "36e0e9d8c4ca32e69b3f211c8d1ca33e02f5e050"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 687974
+file-id = 8633977

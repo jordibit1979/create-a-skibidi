@@ -1,0 +1,12 @@
+name = "Wan's Ancient Beasts"
+filename = "wan_ancient_beasts-neoforge_1.21.1_1.4.3.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "513dc3beffd4a7a99468245c8fd7d7927bbe6baf"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1108604
+file-id = 8761412

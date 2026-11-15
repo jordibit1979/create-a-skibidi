@@ -1,0 +1,14 @@
+name = "Create A Skibidi"
+author = ""
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "28c76aa98d892380ee65d91c4fb91afea7ce0c45b1a57888e8c282042d45ded8"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.266"
+unsup = "1.2.5"

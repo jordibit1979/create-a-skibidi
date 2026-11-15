@@ -1,0 +1,12 @@
+name = "Nether Exotics"
+filename = "netherexotics-1.21.1-1.3.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "34e743e645a32435d5a2372414f5cbc1931610b9"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 486029
+file-id = 9459003

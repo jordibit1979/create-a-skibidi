@@ -1,0 +1,12 @@
+name = "Aquaculture 2"
+filename = "Aquaculture-1.21.1-2.7.22.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "972b0ab7f0f07f4dbcb00af80c1addf5325d0683"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 60028
+file-id = 9426623

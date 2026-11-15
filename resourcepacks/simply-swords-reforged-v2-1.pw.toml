@@ -1,0 +1,12 @@
+name = "Simply Swords Reforged"
+filename = "Simply Swords Reforged v2.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "3acf6f66aa429918270078d5c2ddded1b29ea3f1"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1098749
+file-id = 8898630

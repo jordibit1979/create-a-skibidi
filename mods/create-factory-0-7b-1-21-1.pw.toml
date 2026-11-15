@@ -1,0 +1,12 @@
+name = "Create: Factory"
+filename = "create_factory-0.7b-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d8d406117a717a0359079b50e987f265378b05b1"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 623265
+file-id = 8653064

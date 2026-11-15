@@ -1,0 +1,12 @@
+name = "New Glowing Ores"
+filename = "NewGlowingOres-§6[Border]§r.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "40d8c6748585e4585c8d1e54a28b8ea51cad080d"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 597127
+file-id = 5836470

@@ -1,0 +1,12 @@
+name = "Create Encased"
+filename = "Create-Encased-1.21.1-1.10.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a8b9d11015435bdf873decd25cee5223c1425cc8"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 829380
+file-id = 9545555

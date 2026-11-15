@@ -1,0 +1,12 @@
+name = "Samurai Dynasty"
+filename = "samurai_dynasty-0.1.8-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "8454dcd6602ee4482a8961c0b0a616cf0a586577"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 848381
+file-id = 8156710

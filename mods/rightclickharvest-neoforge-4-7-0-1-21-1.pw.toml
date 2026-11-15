@@ -1,0 +1,12 @@
+name = "RightClickHarvest"
+filename = "rightclickharvest-neoforge-4.7.0-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "10d4c344d3f0862d802cbc358098f64fd451b95a"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 452834
+file-id = 9581730

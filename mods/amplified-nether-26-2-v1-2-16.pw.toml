@@ -1,0 +1,12 @@
+name = "Amplified Nether"
+filename = "Amplified_Nether_26.2_v1.2.16.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "66c053e74379607c614ad252b8f838d3a2533e32"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 552176
+file-id = 8425271

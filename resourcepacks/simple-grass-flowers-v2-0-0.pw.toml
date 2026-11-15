@@ -1,0 +1,12 @@
+name = "Simple Grass Flowers"
+filename = "Simple Grass Flowers v2.0.0.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "afb56cfc90e663526352f7bd75a3c733178fca45"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 551206
+file-id = 8514351
