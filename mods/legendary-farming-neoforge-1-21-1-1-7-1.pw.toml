@@ -1,0 +1,12 @@
+name = "Legendary Farming"
+filename = "legendary_farming-neoforge-1.21.1-1.7.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "edc945ffcec78559b13a7af7ede3299473f5b694"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1622796
+file-id = 9471901

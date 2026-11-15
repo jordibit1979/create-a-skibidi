@@ -1,0 +1,12 @@
+name = "AL's 3D Potions"
+filename = "AL's 3D Potions 1.1.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "55173414d663a1caed7447d0f86ceca5bb401661"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1163687
+file-id = 7248989

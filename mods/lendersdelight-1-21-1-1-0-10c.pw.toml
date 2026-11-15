@@ -1,0 +1,12 @@
+name = "L_Ender 's Cataclysm Delight"
+filename = "lendersdelight-1.21.1-1.0.10c.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "faea23dab64f333112dbcd1579a1eb3c6c880cd3"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1165928
+file-id = 9629184

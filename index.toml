@@ -554,6 +554,11 @@ hash = "e6eb588b2b37d69e4dab5f0c7db52e67a789c5ef3c625cda95d7f8cfe1331d98"
 metafile = true
 
 [[files]]
+file = "mods/jadensnetherexpansiondelight-1-21-1-1-0-4a-neoforge.pw.toml"
+hash = "04830a02cc4332a929503b09f6e752becaa72ab1c01cfea1f2ab3c46626c7fcb"
+metafile = true
+
+[[files]]
 file = "mods/jamlib-neoforge-1-3-6-1-21-1.pw.toml"
 hash = "cff4226556c5b17be795017b6a5964525b7101954b4fdd031df328a1d451a85f"
 metafile = true
@@ -599,6 +604,11 @@ hash = "cf649e709dd37059ce2706a29ed3d6eb9f2f5df88395b5b1c2c8a2ddcfa0b1f5"
 metafile = true
 
 [[files]]
+file = "mods/legendary-farming-neoforge-1-21-1-1-7-1.pw.toml"
+hash = "973b084c50de1dc0543e60edb56b3540e9cf626efd0af1f6f8be3ca7fde31bd2"
+metafile = true
+
+[[files]]
 file = "mods/legendary-monsters-2-2-4-mc-1-21-1.pw.toml"
 hash = "4c26d380c4d8c2b7fdb921c55254cc9355994dc22ed907f5a938dc9031c962a2"
 metafile = true
@@ -606,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/legendarytooltips-1-21-1-neoforge-1-5-5.pw.toml"
 hash = "2c6df2cc51b8020bacab3bbb967724897b3ec1d600a31439fa77aa4d198246d9"
+metafile = true
+
+[[files]]
+file = "mods/lendersdelight-1-21-1-1-0-10c.pw.toml"
+hash = "b8bb3c460cc4dcab34516c81533d45632384f065445fbc354749778cd66e54c1"
 metafile = true
 
 [[files]]
@@ -701,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/neoforge-runiclib-1-21-1-5-0-7.pw.toml"
 hash = "318d9054e704471f0f08f22df9cf47471cd7e2a56d69e261b49fbb44e4337dd9"
+metafile = true
+
+[[files]]
+file = "mods/nether-cruelty-1-2-0-neoforge-1-21-1.pw.toml"
+hash = "d79548883973a10df5fa75c89acc7854190f0e117fc760d6f24036cf594129cb"
 metafile = true
 
 [[files]]
@@ -866,6 +886,11 @@ hash = "dd70dea516c14a8eb71732c3281fd5c86e25078031daff30f72023664ae51451"
 metafile = true
 
 [[files]]
+file = "mods/snifferoverhaulneoforge-1-2-4.pw.toml"
+hash = "c1757e07f3cb23c1c5b5ae1d065b96ad013dc74d5eddac72be5ebe726d70aa27"
+metafile = true
+
+[[files]]
 file = "mods/sodium-neoforge-0-8-13-mc1-21-1.pw.toml"
 hash = "2fc4543e3391818693edc77cb6eda4456b8b514d0b6d0dca1d94389dbe816d22"
 metafile = true
@@ -997,8 +1022,16 @@ file = "resourcepacks/CreateSophiStorage.zip"
 hash = "cea881b7e94723237391ef5075afc68e15bad74d124bb98220804fed1d48e580"
 
 [[files]]
+file = "resourcepacks/Enchantment Glows v1.12.1.zip"
+hash = "87164555d248f373f80a2889e17cfc4bc12631e5f32400ee5d7ea0cd0d851592"
+
+[[files]]
 file = "resourcepacks/Visual Titles 1.3.zip"
 hash = "7a08d58bc4c31767d08c98f0b824433eaa4b842b1dd8695e9e2b1d7ee856598b"
+
+[[files]]
+file = "resourcepacks/Vulmoons calaclysm remake_0.5.zip"
+hash = "c146eff2d40485a04c148d44305b0d16a7413652880dc3f51348c1a05e40904b"
 
 [[files]]
 file = "resourcepacks/[1.6] Enhanced Boss Bars.zip"
@@ -1007,6 +1040,16 @@ hash = "d468a0f675e4b934a7b3981a6dd4200404f328ce4db3dbc541ed752532fbaef7"
 [[files]]
 file = "resourcepacks/achests-8-areimagined-0-8-v1-8-2-0.pw.toml"
 hash = "4a911ccd17e16a7021daa2d883e3324669bd1e6128826e11523f362ee049b2d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/al-s-3d-potions-1-1-1.pw.toml"
+hash = "13adac1e18b10b32c997fd22a385210d20f4ecb06be04bdfdf9d62da57f25736"
+metafile = true
+
+[[files]]
+file = "resourcepacks/al-s-skeletons-revamped-1-7.pw.toml"
+hash = "b54b7ba0a6db171acc4c93a3adedab4fd5cf12f46ccedd2c9e9c88781bd49531"
 metafile = true
 
 [[files]]
@@ -1027,6 +1070,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fancy-crops-v1-3.pw.toml"
 hash = "495573d770e288b1712fc0b336fdf0d8d73dbc9912165c08238da1c01534376f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/golems-refreshed-v2-1.pw.toml"
+hash = "dd5e748a5d07d03ba53905df103455ca8100003a3bd439af6dc4807c14bea1b3"
 metafile = true
 
 [[files]]
@@ -1057,11 +1105,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/xali-s-enchanted-book-v1-0-0.pw.toml"
 hash = "98910d3e5abe8dc55ac1a8ee53c0e2ae6b34edf84af6f53fd84fb12eb72bdedb"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xali-s-potion-v1-2-0.pw.toml"
-hash = "00e907b89ddf49364d6d7adc71b4ee223c01f34bb3101af979cba458f13c2555"
 metafile = true
 
 [[files]]

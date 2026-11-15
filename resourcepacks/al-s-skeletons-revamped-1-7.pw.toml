@@ -1,0 +1,12 @@
+name = "AL's Skeletons Revamped"
+filename = "AL's Skeletons Revamped 1.7.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "07a3799ba9c4c92b7cfab01439d4fbdf3fd10ce7"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 884269
+file-id = 5856239

@@ -1,0 +1,12 @@
+name = "Nether's Cruelty"
+filename = "nether_cruelty-1.2.0-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "b797258c0b1838665296d11bed394f0306ab3a9d"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 616378
+file-id = 9314767

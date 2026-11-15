@@ -1,0 +1,12 @@
+name = "Sniffer Overhaul"
+filename = "snifferoverhaulneoforge-1-2-4.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "58ad86fdf933d3d270327f4cf99b73e73b04b7fa"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 1494681
+file-id = 7854593
