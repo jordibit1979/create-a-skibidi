@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create A Skibidi",
   "author": "",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "selection": {
     "mods": [
       "resourcepacks/Fancy Crops v1.3.zip",
@@ -237,7 +237,8 @@
       "mods/snifferoverhaulneoforge-1-2-4.jar",
       "resourcepacks/Vulmoons calaclysm remake_0.5.zip",
       "resourcepacks/§eArmorstands§8-§eReimagined§0_§8[v1.3]§0.zip",
-      "mods/let_it_walk-0.1.5.jar"
+      "mods/let_it_walk-0.1.5.jar",
+      "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
     ],
     "files": [],
     "known_mods": [
@@ -372,6 +373,7 @@
       "mods/immersive_aircraft-neoforge-1.7.0+1.21.1.jar",
       "mods/immersiveoverlays-1.8.7-1.21.1-neoforge.jar",
       "mods/immersive_paintings-neoforge-1.21.1-0.8.0.jar",
+      "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "mods/ironchest-1.21-neoforge-16.0.7.jar",
       "mods/item_descriptions-2.8.0+1.21.1-neoforge.jar",
       "mods/Jade-1.21.1-NeoForge-15.10.6.jar",

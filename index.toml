@@ -534,6 +534,11 @@ hash = "9a607eecb52fb950a91bca99de2ef7aedc9ef336acb9301e19a7a6ec226027a0"
 metafile = true
 
 [[files]]
+file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
+hash = "3ad00b715a33c9cf9e0fdf37c64518053ef1f994fa4a1b9f4b6950bc46812280"
+metafile = true
+
+[[files]]
 file = "mods/ironchest-1-21-neoforge-16-0-7.pw.toml"
 hash = "9613917bbda16ceff24603b3d594f80e9e276aed8447e25641e020dc3cfbdeb7"
 metafile = true
