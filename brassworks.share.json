@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create A Skibidi",
   "author": "",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "selection": {
     "mods": [
       "resourcepacks/Fancy Crops v1.3.zip",
@@ -236,7 +236,8 @@
       "mods/nether_cruelty-1.2.0-neoforge-1.21.1.jar",
       "mods/snifferoverhaulneoforge-1-2-4.jar",
       "resourcepacks/Vulmoons calaclysm remake_0.5.zip",
-      "resourcepacks/§eArmorstands§8-§eReimagined§0_§8[v1.3]§0.zip"
+      "resourcepacks/§eArmorstands§8-§eReimagined§0_§8[v1.3]§0.zip",
+      "mods/let_it_walk-0.1.5.jar"
     ],
     "files": [],
     "known_mods": [
@@ -389,6 +390,7 @@
       "mods/legendary_farming-neoforge-1.21.1-1.7.1.jar",
       "mods/legendary_monsters-2.2.4 MC 1.21.1.jar",
       "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "mods/let_it_walk-0.1.5.jar",
       "mods/lionfishapi-3.1.jar",
       "mods/lithostitched-1.8.1-neoforge-21.1.jar",
       "mods/lmft-1.1.1+1.21.9-neoforge.jar",

@@ -624,6 +624,11 @@ hash = "b8bb3c460cc4dcab34516c81533d45632384f065445fbc354749778cd66e54c1"
 metafile = true
 
 [[files]]
+file = "mods/let-it-walk-0-1-5.pw.toml"
+hash = "ad22a26ce598dadf7f327de12625717cf0b1b7dff3034c3c32593f0c41c470c0"
+metafile = true
+
+[[files]]
 file = "mods/lionfishapi-3-1.pw.toml"
 hash = "737bb424e621f3044c78672f3ab611b23a58e10eb74947a5524e65dff277e40c"
 metafile = true
