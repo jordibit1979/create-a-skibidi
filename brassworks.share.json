@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Create A Skibidi",
   "author": "",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "selection": {
     "mods": [
       "resourcepacks/Fancy Crops v1.3.zip",
@@ -238,7 +238,8 @@
       "resourcepacks/Vulmoons calaclysm remake_0.5.zip",
       "resourcepacks/§eArmorstands§8-§eReimagined§0_§8[v1.3]§0.zip",
       "mods/let_it_walk-0.1.5.jar",
-      "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+      "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "mods/e4mc-neoforge-6.2.3.jar"
     ],
     "files": [],
     "known_mods": [
@@ -345,6 +346,7 @@
       "mods/deeperdarker-neoforge-1.21.1-1.4.1.jar",
       "mods/dragonlib-3.0.29+mc1.21.1-neoforge.jar",
       "mods/neoforge-dungeonsdelight-1.21.1-1.5.2.jar",
+      "mods/e4mc-neoforge-6.2.3.jar",
       "mods/ElysiumAPI-1.21.1-2.0.1.jar",
       "mods/elytraslot-neoforge-9.0.2+1.21.1.jar",
       "mods/emi-1.1.24+1.21.1+neoforge.jar",
@@ -356,7 +358,6 @@
       "mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
       "resourcepacks/[1.6] Enhanced Boss Bars.zip",
       "mods/entityculling-neoforge-1.12.1-mc1.21.1.jar",
-      "mods/Essential_1-5-2_neoforge_1-21-1.jar",
       "mods/FarmersDelight-1.21.1-1.3.4.jar",
       "mods/fastleafdecay-35.jar",
       "mods/ferritecore-7.0.3-neoforge.jar",
